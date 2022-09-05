@@ -1,2 +1,2 @@
 # Helm-deployment
-A kubernetes deployment using helm
+A kubernetes cluster deployment using helm.
